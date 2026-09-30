@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-REPO      = "hr185882-creator/inflection-point-research"
+REPO      = "AuroraGrid/inflection-point-research"
 FILE_PATH = "data.json"
 BRANCH    = "main"
 
