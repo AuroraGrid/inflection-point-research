@@ -255,7 +255,7 @@ def fetch_companies():
 # -- GitHub push --------------------------------------------------------------
 
 def push_to_github(data, token):
-    repo    = "hr185882-creator/inflection-point-research"
+    repo    = "AuroraGrid/inflection-point-research"
     path    = "data.json"
     api_url = f"https://api.github.com/repos/{repo}/contents/{path}"
     headers = {
