@@ -4,13 +4,13 @@ Inflection Point Research (IPR) is the structural-forecasting layer within AUROR
 
 ## Canonical links
 
-- Repository: https://github.com/hr185882-creator/inflection-point-research
-- GitHub profile: https://github.com/hr185882-creator
-- AURORA GRID live site: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
-- AURORA GRID OS v2.1.1 public release: https://hr185882-creator.github.io/aurora-grid-grindwire-site/release.html
-- AURORA GRID OS v2.1.1 specification: https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
-- AURORA Learning Platform: https://github.com/hr185882-creator/aurora-learning-platform
-- AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
+- Repository: https://github.com/AuroraGrid/inflection-point-research
+- GitHub profile: https://github.com/AuroraGrid
+- AURORA GRID live site: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
+- AURORA GRID OS v2.1.1 public release: https://AuroraGrid.github.io/aurora-grid-grindwire-site/release.html
+- AURORA GRID OS v2.1.1 specification: https://github.com/AuroraGrid/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
+- AURORA Learning Platform: https://github.com/AuroraGrid/aurora-learning-platform
+- AURORA LIVE / Intel Tripwire: https://github.com/AuroraGrid/intel-tripwire
 
 ## Analytical sequence
 
