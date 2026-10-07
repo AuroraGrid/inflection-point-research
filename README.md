@@ -1,14 +1,13 @@
 # Inflection Point Research
 
-Inflection Point Research (IPR) is the structural-forecasting layer within AURORA GRID OS. It tests whether a development is a genuine change in system behavior or merely temporary, cyclical, local, symbolic, or narrative-driven.
+Inflection Point Research (IPR) is a structural-forecasting module in the lineage that now operates under KAHRELUM. It tests whether a development is a genuine change in system behavior or merely temporary, cyclical, local, symbolic, or narrative-driven.
 
 ## Canonical links
 
 - Repository: https://github.com/AuroraGrid/inflection-point-research
 - GitHub profile: https://github.com/AuroraGrid
-- AURORA GRID live site: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
-- AURORA GRID OS v2.1.1 public release: https://AuroraGrid.github.io/aurora-grid-grindwire-site/release.html
-- AURORA GRID OS v2.1.1 specification: https://github.com/AuroraGrid/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
+- KAHRELUM canonical site: https://kahrelum.com
+- KAHRELUM OS repository: https://github.com/AuroraGrid/kahrelum-os
 - AURORA Learning Platform: https://github.com/AuroraGrid/aurora-learning-platform
 - AURORA LIVE / Intel Tripwire: https://github.com/AuroraGrid/intel-tripwire
 
@@ -59,6 +58,6 @@ IPR output is not accepted as a structural conclusion until the record supports 
 ## Contact
 
 - Hasan Raza Kazmi
-- Email: Grindwireproject@gmail.com
+- Email: hasan@kahrelum.com
 - Location: Sargodha, Pakistan
 - Work preference: fully remote
